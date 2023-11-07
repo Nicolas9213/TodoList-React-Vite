@@ -1,0 +1,13 @@
+.dark {
+    background-color:darkslategrey;
+    color: white;
+}
+
+.light {
+    background-color:aliceblue;
+    color:darkgreen;
+}
+
+#click {
+    width: 10%;
+}
